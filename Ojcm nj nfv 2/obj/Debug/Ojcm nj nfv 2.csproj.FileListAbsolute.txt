@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Ojcm nj nfv 2\Ojcm nj nfv 2\bin\Debug\Ojcm nj nfv 2.exe.config
+C:\Users\user\source\repos\Ojcm nj nfv 2\Ojcm nj nfv 2\bin\Debug\Ojcm nj nfv 2.exe
+C:\Users\user\source\repos\Ojcm nj nfv 2\Ojcm nj nfv 2\bin\Debug\Ojcm nj nfv 2.pdb
+C:\Users\user\source\repos\Ojcm nj nfv 2\Ojcm nj nfv 2\obj\Debug\Ojcm nj nfv 2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ojcm nj nfv 2\Ojcm nj nfv 2\obj\Debug\Ojcm nj nfv 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Ojcm nj nfv 2\Ojcm nj nfv 2\obj\Debug\Ojcm_nj_nfv_2.Form1.resources
+C:\Users\user\source\repos\Ojcm nj nfv 2\Ojcm nj nfv 2\obj\Debug\Ojcm_nj_nfv_2.Properties.Resources.resources
+C:\Users\user\source\repos\Ojcm nj nfv 2\Ojcm nj nfv 2\obj\Debug\Ojcm nj nfv 2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Ojcm nj nfv 2\Ojcm nj nfv 2\obj\Debug\Ojcm nj nfv 2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ojcm nj nfv 2\Ojcm nj nfv 2\obj\Debug\Ojcm nj nfv 2.exe
+C:\Users\user\source\repos\Ojcm nj nfv 2\Ojcm nj nfv 2\obj\Debug\Ojcm nj nfv 2.pdb
